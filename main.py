@@ -40,9 +40,9 @@ def keep_alive():
     print("✅ Flask Keep-Alive server started.")
 # --- End Flask Keep Alive ---
 # --- Configuration ---
-TOKEN = '8104892272:AAGWLKR_h86z2pyGyR3wwIJwae2A4nEas5A'
+TOKEN = '8104892272:AAH_NnmUuVhtgZ_Wo4MwtqpG38ssZUzh5QY'
 OWNER_ID = 8199894439
-ADMIN_ID = 8519594105
+ADMIN_ID = 6414377771
 YOUR_USERNAME = '@CEO_UXDEMONOFC'
 UPDATE_CHANNEL = 'https://t.me/UX_DEMON_OFFICIAL'
 # Folder setup
